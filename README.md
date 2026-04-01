@@ -24,9 +24,3 @@ A minimal web-based calculator built using HTML, CSS, and JavaScript. This proje
 - JavaScript  
 
 ---
-
-## 📂 Project Structure
-simple-calculator-study/
-│── index.html      # Main HTML file
-│── style.css       # Styling
-│── script.js       # Logic for addition & subtraction
